@@ -1,4 +1,4 @@
-Java Practice project to understand git, maven, sonar and nexus.
+Please add.
 
 ## Install Nexus Repository Manager
 - https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/nexus-install.sh
