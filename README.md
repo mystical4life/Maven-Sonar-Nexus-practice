@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Please add this code
 
 ## Install Nexus Repository Manager
@@ -43,4 +42,3 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 
 =======
 # Maven-Sonar-Nexus-practice
->>>>>>> 4e5866f1238186b37c708a589bf4d463f72f31b3
