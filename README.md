@@ -1,5 +1,3 @@
-Please add this code
-
 ## Install Nexus Repository Manager
 - https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/nexus-install.sh
 
@@ -40,5 +38,3 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 ## Maven Lifecycle Phases
 - https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#a-build-lifecycle-is-made-up-of-phases
 
-=======
-# Maven-Sonar-Nexus-practice
